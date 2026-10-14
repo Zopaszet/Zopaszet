@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=venom&height=220&color=0:000000,100:a371f7&text=Zovan%20Rizza%20Fannevi&fontSize=60&fontColor=FFFFFF&animation=fadeIn&fontAlignY=40&desc=Computer%20Science%20Student%20%7C%20Aspiring%20Data%20%26%20AI%20Engineer&descSize=22&descColor=FFFFFF&descAlignY=65" width="100%"/>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&duration=2000&pause=1000&color=4295F7&center=true&width=435&lines=Hi%2C+I'm+Zovan+Rizza+Fannevi;Computer+Science+Student;Aspiring+Data+%26+AI+Engineer" alt="Typing SVG" /></a>
 
 <p align="center">
   <a href="https://komarev.com/ghpvc/?username=Zopaszet">

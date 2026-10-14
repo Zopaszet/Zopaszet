@@ -1,10 +1,4 @@
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&duration=2000&pause=1000&color=4295F7&center=true&width=435&lines=Hi%2C+I'm+Zovan+Rizza+Fannevi;Computer+Science+Student;Aspiring+Data+%26+AI+Engineer" alt="Typing SVG" /></a>
-
-<p align="center">
-  <a href="https://komarev.com/ghpvc/?username=Zopaszet">
-    <img src="https://komarev.com/ghpvc/?username=Zopaszet&label=Profile%20views&color=00FFFF&style=flat-square" alt="Zopaszet's profile views" />
-  </a>
-</p>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&duration=2000&pause=1000&color=4295F7&center=true&vCenter=true&width=435&lines=Hi%2C+I'm+Zovan+Rizza+Fannevi;Computer+Science+Student;Aspiring+Data+%26+AI+Engineer" alt="Typing SVG" /></a>
 
 ## 📌 About Me
 - I'm a Computer Science student at Dian Nuswantoro University, interested in data-driven solutions, artificial intelligence, and machine learning.
